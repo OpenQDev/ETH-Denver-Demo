@@ -12,10 +12,10 @@ Don't forget to add a GitHub issue closer comment to the pull request you want t
 https://docs.openq.dev/contest-contracts/prepare-contest-for-claim
 
 **Rules**
-- OpenQ is constantly reviewing new hackathon submissions from different organizers, we do not accept any submission that is very similar to an old one. 
+- OpenQ is constantly monitoring new hackathon submissions from different organizers, we do not accept any submission that is very similar to an old one. 
 - You will own any developments made by you, and all right, title and interest in those developments, including the intellectual property rights therein, shall belong to you
-- You acknowledge that these contests are intended to be competitions where ideas are shared freely, and therefore acknowledge that any information that you share with other participants and the organization
-- OpenQ has the unrestricted right to use any information you have provided in your submission to distribute it on social media, via email and on the website
+- You acknowledge that our bounties are intended to be competitions where ideas are shared freely, and therefore acknowledge that any information that you share with other participants and the organization
+- ETHDenver has the unrestricted right to use any information you have provided in your submission to distribute it on social media, via email and on the website
 
 
 **Rules on Pre-existing Work**
